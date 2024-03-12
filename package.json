@@ -8,12 +8,13 @@
     "type": "git",
     "url": "git+https://github.com/yjs/y-webrtc.git"
   },
+  "type": "module",
   "keywords": [
     "Yjs"
   ],
   "license": "MIT",
   "dependencies": {
-    "lib0": "^0.2.42"    ,
+    "lib0": "^0.2.42",
     "ws": "^8.14.2"
 
   },
